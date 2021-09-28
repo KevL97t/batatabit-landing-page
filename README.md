@@ -45,11 +45,6 @@ How the contraste and fonts are really important and need to be paid attention a
 
 Working on grid, need to improve on it.
 
-
-### Useful resources
-
-There were no resources in this challenge other than my head.
-
 ## Author
 
 - Website - [KevL97t](https://github.com/KevL97t)
